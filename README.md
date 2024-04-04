@@ -1,4 +1,13 @@
-# WebApp boilerplate with React JS and Flask API
+# Proyecto Let me Give con React JS y Flask API
+
+![LET ME GIVE](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/221856c5-52d6-4e6e-bc23-23f8a5425738)
+
+## Tecnologías empleadas:
+
+Front end:
+```
+Back end:
+```
 
 Build web applications using React.js for the front end and python/flask for your backend API.
 
