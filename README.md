@@ -2,12 +2,22 @@
 
 ![LET ME GIVE](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/221856c5-52d6-4e6e-bc23-23f8a5425738)
 
+## Sobre el proyecto
+![5](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/e3b38b85-f348-4232-9448-adce4ac71e25)
+![6](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/2c0b4c32-5d47-4230-bc96-2f179d34cae0)
+
 ## Tecnologías empleadas:
 
 Front end:
 ```
+
+```
 Back end:
 ```
+
+```
+![15](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/34f72759-88d2-4b50-a6ce-5f9e1cf4de64)
+
 
 Build web applications using React.js for the front end and python/flask for your backend API.
 
