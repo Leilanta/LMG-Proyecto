@@ -3,6 +3,7 @@
 ![LET ME GIVE](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/221856c5-52d6-4e6e-bc23-23f8a5425738)
 
 ## Sobre el proyecto
+En un contexto social en el que parece que las redes sociales nos separan más que nos unen, hemos querido crear un espacio para construir comunidad
 ![5](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/e3b38b85-f348-4232-9448-adce4ac71e25)
 ![6](https://github.com/Leilanta/LMG-Proyecto-Final/assets/135250913/2c0b4c32-5d47-4230-bc96-2f179d34cae0)
 
